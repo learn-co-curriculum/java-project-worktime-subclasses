@@ -121,6 +121,4 @@ following UML diagram:
 
     6. Run the JUnits and ensure it passes with your implementation.
 
-This task can be completed after the More on Inheritance section. Note: There
-will be a lesson called "Project Work Time - Subclasses" that will signal when
-to start this part of the project.
+This task can be completed now.
